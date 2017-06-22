@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Welcome to PDFZip
 
-You can use the [editor on GitHub](https://github.com/ty6202017/PDFZip/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**PDFZip** is a windows application that will let you split and join PDF files without uploading to any cloud servers.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### To install the program:
 
-### Markdown
+Download the PDFZipInstaller.exe file
+Double click at the downloaded file to install the program. You will need to administrator's privileges to finish the installation.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### To split a PDF file:
+* Right click any PDF file to open the Windows context menu.
+* Select PDF Zip > Split PDF file into pages. The program will create a new folder and copy each page into a separate PDF file.
+* Then, delete or change the files as needed.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### To join or merge multiple PDF files:
+* Select the individual PDF files.
+* Right click at one of the selected files to open the Windows context menu.
+* Select PDF Zip > Join multiple PDF files. The program will sort the selected files in alphabetical order, then copy each page from each file to a new PDF file.
 
-1. Numbered
-2. List
+*By using the software you agree not to sue the creator of this software for any reason for any reason.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+[Download Alpha Version](https://drive.google.com/file/d/0B2JGa3bZPebKRnNLdktUNV8yNEE/view?usp=sharing)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+    The program is written in C# and will be open sourced soon.
+    Currently the program is in alpha release, which will ends by August 21st, 2017.
+    A beta release will be made available for download before that time. Stay tune!
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ty6202017/PDFZip/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
