@@ -20,13 +20,6 @@ Double click at the downloaded file to install the program. You will need to adm
 * Select PDF Zip > Join multiple PDF files. The program will sort the selected files in alphabetical order, then copy each page from each file to a new PDF file.
 
 
-    ------------------------------------------------------------------------------------------------------------
-    |                                                                                                          |
-    |                Home page: https://faradaysoft.blogspot.com/2017/06/pdfzip.html                           |
-    |                                                                                                          |
-    ------------------------------------------------------------------------------------------------------------
-
-
 ***By using the software you agree not to sue the creator of this software for any reason for any reason.***
 
 [Download Alpha Version](https://drive.google.com/file/d/0B2JGa3bZPebKRnNLdktUNV8yNEE/view?usp=sharing)
@@ -35,3 +28,5 @@ Double click at the downloaded file to install the program. You will need to adm
     Currently the program is in alpha release, which will ends by August 21st, 2017.
     A beta release will be made available for download before that time. Stay tune!
 
+## Contact us
+* Blog: https://faradaysoft.blogspot.com
