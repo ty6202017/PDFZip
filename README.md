@@ -19,7 +19,7 @@ Double click at the downloaded file to install the program. You will need to adm
 * Right click at one of the selected files to open the Windows context menu.
 * Select PDF Zip > Join multiple PDF files. The program will sort the selected files in alphabetical order, then copy each page from each file to a new PDF file.
 
-*By using the software you agree not to sue the creator of this software for any reason for any reason.
+***By using the software you agree not to sue the creator of this software for any reason for any reason.***
 
 
 [Download Alpha Version](https://drive.google.com/file/d/0B2JGa3bZPebKRnNLdktUNV8yNEE/view?usp=sharing)
